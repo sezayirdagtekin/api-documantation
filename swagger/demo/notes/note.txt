@@ -1,0 +1,16 @@
+
+Swagger will support springboot 3.0.x in the future!
+https://github.com/springfox/springfox/issues/3983
+
+postman
+http://localhost:8080/v2/api-docs
+
+http://localhost:8080/swagger-ui/
+
+
+
+Reference
+https://swagger.io/docs/
+https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://www.techgeeknext.com/spring-boot/spring-boot-swagger2-example
+https://www.baeldung.com/spring-boot-get-all-endpoints
