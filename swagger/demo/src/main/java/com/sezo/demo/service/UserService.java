@@ -1,4 +1,4 @@
-package com.sezo.demo.repo;
+package com.sezo.demo.service;
 
 import java.util.ArrayList;
 import java.util.List;
