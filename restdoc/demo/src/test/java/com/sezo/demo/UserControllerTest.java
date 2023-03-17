@@ -19,7 +19,7 @@ import com.sezo.demo.controller.UserController;
 
 @WebMvcTest(UserController.class)
 @AutoConfigureRestDocs(outputDir = "target/generated-snippets")
-public class WebLayerTest {
+public class UserControllerTest {
 
 	@Autowired
 	private MockMvc mockMvc;
